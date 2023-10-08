@@ -5,7 +5,7 @@ Hi 👋, I'm Martin Alejandro Maldonado
 
 🌱 I’m currently learning Fullstack Developer (codo a codo) y university technician in programming (Teclab).
 
-💬 Ask me about React, Node.
+💬 Ask me about Programming Fundamentals, React.
 
 📫 How to reach me martin.maldonado26@gmail.com
 
