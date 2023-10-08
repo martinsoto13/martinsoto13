@@ -1,13 +1,13 @@
 Hi 👋, I'm Martin Alejandro Maldonado
-💙 Passionate coder - I am a student of programming technology
+💙 Passionate coder - I am a student of programming technician
 
 🔭 I’m currently working on No Country.
 
-🌱 I’m currently learning AWS, Project Manager.
+🌱 I’m currently learning Fullstack Developer (codo a codo) y university technician in programming (Teclab).
 
 💬 Ask me about React, Node.
 
 📫 How to reach me martin.maldonado26@gmail.com
 
 Languages and Tools:
-bash bootstrap bulma codeigniter css3 docker express figma git html5 javascript laravel linux mariadb mongodb mysql nodejs php postgresql postman react redux sass tailwind
+bash bootstrap css3 figma git html5 javascript mysql nodejs php postgresql postman react redux sass tailwind python java
