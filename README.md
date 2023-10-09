@@ -10,4 +10,4 @@ Hi 👋, I'm Martin Alejandro Maldonado
 📫 How to reach me martin.maldonado26@gmail.com
 
 Languages and Tools:
-bash bootstrap css3 figma git html5 javascript mysql nodejs php postgresql postman react redux sass tailwind python java
+bash bootstrap css3 figma git html5 javascript mysql nodejs php postgresql postman react tailwind python java
