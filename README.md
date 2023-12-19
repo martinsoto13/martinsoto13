@@ -1,5 +1,5 @@
 Hi 👋, I'm Martin Alejandro Maldonado
-💙 Passionate coder - I am a student of programming technician
+💙 Passionate coder - I'm a university programming technician
 
 🔭 I’m currently working on No Country.
 
